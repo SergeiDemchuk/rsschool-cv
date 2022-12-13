@@ -1,5 +1,11 @@
 # Sergei Demchuk
-
+* **contact information:** 
+  * **Phone:** +375297243315 
+  * **e-mail:** demchuk90@gmail.com
+  * **GitHub:** [github.com/SergeiDemchuk](https://github.com/SergeiDemchuk)
+  * **Location:** Brest, Belarus
+  * **Discord:** [discord.com/channels/@me](https://discord.com/channels/@me)  
+ ---
  # About me
  I am responsible,disciplined,ready to learn new things
  ___
