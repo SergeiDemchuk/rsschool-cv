@@ -1,1 +1,89 @@
-style.css
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #161515;
+}
+html {
+    scroll-behavior: smooth; 
+}
+
+* {
+    box-sizing: border-box;
+}
+
+footer {
+  background-color: #847e43;
+  padding: 20px;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 80%;
+    margin: 20px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(77, 77, 85);
+    transition: .3s;
+}
+  
+.nav-item a {
+        color: #292f29;
+        text-decoration: none;  
+        transition: color 0.5s;
+}
+      .nav-item a:hover {
+        color: #bc0d0d;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .section {
+    width: 50%;
+  }
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  .section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #87bc1d;
+  }
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: rgb(150, 238, 17);
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url(https://rs.school/images/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
